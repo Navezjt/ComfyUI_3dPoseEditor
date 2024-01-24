@@ -1,0 +1,3 @@
+- https://github.com/ZHO-ZHO-ZHO/ComfyUI-ArtGallery
+- https://github.com/ZHO-ZHO-ZHO/ComfyUI-PhotoMaker
+- https://github.com/hinablue/ComfyUI_3dPoseEditor
